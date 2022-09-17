@@ -1,1 +1,3 @@
-const test = "test";
+const sum = (firstNumber, secondNumber) => {
+    return firstNumber + secondNumber;
+};
